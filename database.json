@@ -1,0 +1,32 @@
+{
+  "Usuarios": [
+    {
+      "nombre": "Michel",
+      "apellido": "Laiton",
+      "email": "michel@gmail.com",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "nombre": "Cesar",
+      "apellido": "Salazar",
+      "email": "cesar@admin.com",
+      "password": "123456",
+      "id": 2
+    }
+  ],
+  "Tickets": [],
+  "Respuesta": [
+    {
+      "ticketId": "1",
+      "respuesta": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "fechaC": "2023-09-19",
+      "nombreU": "Laiton",
+      "correo": "michel@gmail.com",
+      "nombre": "Ticket de Laiton",
+      "fecha": "2023-09-19",
+      "estado": "Respondido",
+      "id": 1
+    }
+  ]
+}
